@@ -2,6 +2,12 @@
 
 ## Installation
 
-1. `npm install`
+1. Install Dependencies
+    ```
+    npm install
+    ```
 
-2. `DEBUG=blockfund-backend:* npm start`
+2. Run server
+    ```
+    DEBUG=blockfund-backend:* npm start
+    ```
